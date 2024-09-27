@@ -1,5 +1,5 @@
 @Gasorekibo
-# At the end of this project I'll be able to Implement:
+# At the end of this project I'll be able to Explain and implement:
 1. What the state of a component or a container is
 2. The lifecycle of a component
 3. How to modify a state and execute code in the right order
